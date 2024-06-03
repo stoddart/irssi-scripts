@@ -3,8 +3,6 @@ use Irssi 20020101.0250 ();
 use vars qw($VERSION %IRSSI);
 $VERSION = "2.1";
 %IRSSI = (
-    authors     => "Timo Sirainen, Ian Peters, David Leadbeater, Bruno Cattáneo",
-    contact	=> "tss\@iki.fi",
     name        => "Nick Color",
     description => "assign a different color for each nick",
     license	=> "Public Domain",

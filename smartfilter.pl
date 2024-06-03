@@ -6,8 +6,6 @@ use vars qw($VERSION %IRSSI);
 $VERSION = "0.4";
 
 %IRSSI = (
-	authors     => 'Christian Brassat, Niall Bunting, Walter Hop and Frantisek Sumsal',
-	contact     => 'irssi-smartfilter@spam.lifeforms.nl',
 	name        => 'smartfilter.pl',
 	description => 'Improved smart filter for join, part, quit, nick messages',
 	license     => 'BSD',

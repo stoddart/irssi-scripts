@@ -1,8 +1,5 @@
 # trigger.pl - execute a command or replace text, triggered by an event in irssi
-# Do /TRIGGER HELP or look at http://wouter.coekaerts.be/irssi/ for help
 
-# Copyright (C) 2002-2010  Wouter Coekaerts <wouter@coekaerts.be>
-#
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation; either version 2 of the License, or

@@ -3,9 +3,6 @@ use warnings;
 
 our $VERSION = '0.4.9';
 our %IRSSI = (
-    authors     => 'Nei',
-    contact     => 'Nei @ anti@conference.jabber.teamidiot.de',
-    url         => "http://anti.teamidiot.de/",
     name        => 'dim_nicks',
     description => 'Dims nicks that are not in channel anymore.',
     license     => 'GNU GPLv2 or later',

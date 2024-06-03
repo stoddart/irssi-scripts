@@ -105,15 +105,9 @@ use vars qw($VERSION %IRSSI);
 $VERSION = "2.9"; # a4c78e85092a271
 
 %IRSSI = (
-    authors     => "Peter 'kinlo' Leurs, Uwe Dudenhoeffer, " .
-                   "Michiel Holtkamp, Nico R. Wohlgemuth, " .
-                   "Geert Hauwaerts",
-    contact     => 'peter@pfoe.be',
-    patchers    => 'Johan Kiviniemi (UTF-8), Uwe Dudenhoeffer (on-upgrade-remove-line)',
     name        => 'trackbar',
     description => 'Shows a bar where you have last read a window.',
     license     => 'GNU General Public License',
-    url         => 'http://www.pfoe.be/~peter/trackbar/',
     commands    => 'trackbar',
 );
 
@@ -156,17 +150,6 @@ $VERSION = "2.9"; # a4c78e85092a271
 ## Known bugs and the todolist.
 #
 #    Todo: * Instead of drawing a line, invert the line.
-#
-##
-
-## Authors:
-#
-#   - Main maintainer & author: Peter 'kinlo' Leurs
-#   - Many thanks to Timo 'cras' Sirainen for placing me on my way
-#   - on-upgrade-remove-line patch by Uwe Dudenhoeffer
-#   - trackbar resizing by Michiel Holtkamp (02 Jul 2012)
-#   - scroll to trackbar, window excludes, and timestamp options by Nico R.
-#     Wohlgemuth (22 Sep 2012)
 #
 ##
 
