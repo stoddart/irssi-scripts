@@ -1,2 +1,2 @@
 # irssi-scripts
-This repository is where I store my irssi scripts.
+A repo for my irssi scripts.
