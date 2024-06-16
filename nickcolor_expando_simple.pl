@@ -37,4 +37,3 @@ signal_add_first 'print text' => sub {
     my $color = get_color($nick->{nick});
     $$stripped =~ s/\Q$nick->{nick}\E/\x03$color$nick->{nick}\x03/;
 };
-
