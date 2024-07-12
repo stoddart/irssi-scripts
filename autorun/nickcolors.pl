@@ -1,1 +1,0 @@
-/Users/daniel/.irssi/scripts/nickcolors.pl
