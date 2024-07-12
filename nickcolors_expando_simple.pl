@@ -5,7 +5,6 @@ use Irssi;
 
 our $VERSION = '0.0.2'; # 4003f16d601cf51
 our %IRSSI = (
-    authors	=> 'Nei',
     name	=> 'nickcolor_expando_simple',
     description	=> 'provide a simple hash based $nickcolor expando',
     license	=> 'ISC',
