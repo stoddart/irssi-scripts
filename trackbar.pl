@@ -12,7 +12,7 @@
 ## Usage:
 #
 #     The script works right out of the box, but if you want you can change
-#     the working by /set'ing the following variables:
+#     the functionality by setting the following variables:
 #
 #    Setting:     trackbar_style
 #    Description: This setting will be the color of your trackbar line.
@@ -79,8 +79,6 @@
 ##
 
 ##
-#
-# For bugreports and other improvements contact one of the authors.
 #
 #    This program is free software; you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
