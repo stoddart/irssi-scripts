@@ -246,7 +246,7 @@ HELP
 }
 
 Irssi::theme_register([
-    'trackbar_loaded', '%R>>%n %_Scriptinfo:%_ Loaded $0 version $1 by $2.',
+    'trackbar_loaded', '%R>>%n %_Scriptinfo:%_ Loaded $0 version $1.',
     'trackbar_wrong_version', '%R>>%n %_Trackbar:%_ Please upgrade your client to 0.8.17 or above if you would like to use this feature of trackbar.',
     'trackbar_all_removed', '%R>>%n %_Trackbar:%_ All the trackbars have been removed.',
     'trackbar_not_found', '%R>>%n %_Trackbar:%_ No trackbar found in this window.',
