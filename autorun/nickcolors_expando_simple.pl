@@ -1,1 +1,1 @@
-/Users/daniel/.irssi/scripts/nickcolors_expando_simple.pl
+/home/daniel/.irssi/scripts/nickcolors_expando_simple.pl

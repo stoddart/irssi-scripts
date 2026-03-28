@@ -1,6 +1,7 @@
 use strict;
 use warnings;
 use experimental 'signatures';
+no warnings 'experimental::signatures';
 use Irssi;
 
 our $VERSION = '0.0.2'; # 4003f16d601cf51
